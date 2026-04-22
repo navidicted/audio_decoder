@@ -19,7 +19,7 @@ screenshots:
     path: screenshots/logo.png
 
 environment:
-  sdk: ^3.10.8
+  sdk: ^3.10.7
   flutter: '>=3.3.0'
 
 dependencies:
